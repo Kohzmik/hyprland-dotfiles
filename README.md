@@ -18,6 +18,7 @@ git clone https://github.com/Kohzmik/dotfiles
 cd dotfiles
 chmod +x scripts/*.sh
 ./scripts/install.sh
+```
 
 
-![Desktop](Screenshots/desktop.png)
+![Desktop](Screenshots/screen.png)

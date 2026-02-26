@@ -1,7 +1,6 @@
 # Dotfiles (Arch Linux + Hyprland)
 
-My personal Arch Linux desktop configuration inspired by modern
-Hyprland workflows.
+My personal Arch Linux Desktop
 
 ## Includes
 - Hyprland (Wayland)
@@ -19,3 +18,6 @@ git clone https://github.com/Kohzmik/dotfiles
 cd dotfiles
 chmod +x scripts/*.sh
 ./scripts/install.sh
+
+
+![Desktop](Screenshots/desktop.png)
